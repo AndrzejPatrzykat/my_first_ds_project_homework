@@ -1,0 +1,5 @@
+"# Prace domowe z kursu Data Science - sierpien 2026"  
+"# To plik z dost©pem dla prowadz¥cego" 
+"# Lekcja_3_DS_git.ipynb -temaat zwi¥zany z wierszem poleceä i gitem oraz githubem" 
+"# Lekcja_4_DS_git.ipynb -podstawowe operatory w pythonie, stringi podstaway" 
+"# Lekcja_5_DS_git.ipynb - Listy i stringi" 
